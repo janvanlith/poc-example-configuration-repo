@@ -1,0 +1,7 @@
+my: 
+  profile: DEVELOPMENT
+
+menu:
+  catchOfTheDay: shark (Gitea)
+secret:
+  surprise: fireworks

@@ -1,0 +1,8 @@
+git-server: Gitea
+restaurant.catchOfTheDay: sea bass (Gitea)
+
+menu:
+  catchOfTheDay: codfish
+
+secret:
+  surprise: cake with fireworks

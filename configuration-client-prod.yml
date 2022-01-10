@@ -1,0 +1,9 @@
+my:
+  profile: PRODUCTION
+menu:
+  catchOfTheDay: whale
+
+secret:
+  surprise: oliebollen met rozijnen
+
+dbuser: userFromConfigFile
