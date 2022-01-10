@@ -4,6 +4,6 @@ menu:
   catchOfTheDay: whale
 
 secret:
-  surprise: oliebollen met rozijnen
+  surprise: oliebollen
 
 dbuser: userFromConfigFile
