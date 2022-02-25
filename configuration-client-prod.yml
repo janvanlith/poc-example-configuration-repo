@@ -5,5 +5,3 @@ menu:
 
 secret:
   surprise: doei
-
-dbuser: userFromConfigFile
