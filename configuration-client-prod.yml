@@ -4,6 +4,6 @@ menu:
   catchOfTheDay: whale
 
 secret:
-  surprise: suprise
+  surprise: doei
 
 dbuser: userFromConfigFile
